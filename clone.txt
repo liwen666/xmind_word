@@ -1,0 +1,18 @@
+ git clone -b develop http://liwen@114.242.31.175:8090/dcpay/dcpay_alert_sdk.git
+   20  git clone -b develop http://liwen@114.242.31.175:8090/dcpay/dcpay_base.git
+   21  git clone -b develop http://liwen@114.242.31.175:8090/dcpay/dcpay_base.git
+   22  git clone -b develop http://liwen@114.242.31.175:8090/dcpay/dcpay_dto.git
+   23  git clone -b develop http://liwen@114.242.31.175:8090/dcpay/dcpay_merchant_interface.git
+   24  git clone -b develop http://liwen@114.242.31.175:8090/dcpay/dcpay_mq.git
+   25  git clone -b develop http://liwen@114.242.31.175:8090/dcpay/dcpay_vo.git
+   26  git clone -b develop http://liwen@114.242.31.175:8090/dcpay/dcpay_order_interface.git
+   27  git clone -b develop http://liwen@114.242.31.175:8090/dcpay/dcpay_log_sdk.git
+   28  git clone -b develop http://liwen@114.242.31.175:8090/dcpay/dcpay_schedule_center.git
+   29  git clone -b develop http://liwen@114.242.31.175:8090/dcpay/dcpay_constant.git
+   30  git clone -b develop http://liwen@114.242.31.175:8090/dcpay/dcpay_dao.git
+   31  git clone -b develop http://liwen@114.242.31.175:8090/dcpay/dcpay_model.git
+   32  git clone -b develop http://liwen@114.242.31.175:8090/dcpay/dcpay_util.git
+   33  git clone -b develop http://liwen@114.242.31.175:8090/dcpay/dcpay_redis_sentinel.git
+   
+   
+  git clone -b develop http://liwen@114.242.31.175:8090/dcpay/dcpay_commission_interface.git
